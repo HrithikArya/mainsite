@@ -10,9 +10,17 @@ footer li {
     list-style: none;
 }
 
+.footer-top {
+    background-color: #181828 !important;
+    background-size: cover;
+    background-position: center;
+    padding: 0 0 20px;
+    font-family: rubik;
+    padding-top:30px;
+  
+}
 .footer-bottom {
     padding: 15px 0;
-    border-top: 1px solid #313646;
     background-color: #181828 !important;
     color: #b0b0b0;
     font-family: rubik;
